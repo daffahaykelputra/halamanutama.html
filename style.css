@@ -1,0 +1,44 @@
+body{
+    background: aquamarine;
+    
+}
+img {
+    width: 200px;
+    height: 250px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
+.logo{
+    width: 200px;
+    height: 200px;
+}
+.identitas{
+    text-align: center;
+    font-family: Autobus Bold;
+    display: table;
+    background-color: gainsboro;
+    padding: 30px;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+h1{
+    text-align: center;
+    font-family : BRAVE Eightyone;
+}
+h2{
+    text-align: center;
+    font-family: Future Techno Italic;
+}
+.medsos{
+    text-align: center;
+}
+.deskripsi{
+    display: table;
+    background-color: gainsboro;
+    padding: 30px;
+    border-radius: 20px;
+    border: 2px solid black;
+}
